@@ -22,7 +22,7 @@ Step into the dynamic world of data-driven decision-making at the PowerBI Analyt
 
 Explore my Power BI profile and visualizations on Power BI Service:
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-viraj.bhutada-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/groups/me/lineage?experience=power-bi)
+[![Power BI](https://img.shields.io/badge/Power%20BI-pavan.mishra-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/groups/me/lineage?experience=power-bi)
 
 ---
 
@@ -57,5 +57,5 @@ I appreciate your interest in this Power BI Dashboards project and look forward 
 
 ---
 
-## Linkedin: [Viraj N.Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
+## Linkedin: [Pavan Mishra](https://www.linkedin.com/in/pavan-mishra-5740731b7/)
 
