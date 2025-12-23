@@ -1,7 +1,7 @@
 # PowerBI Decision Analytics Hub
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow)](https://app.powerbi.com/groups/me/lineage?experience=power-bi)
-[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/virajbhutada/PowerBI-Dashboards/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/pavanmishra007/PowerBI-Dashboards/blob/main/LICENSE)
 
 Step into the dynamic world of data-driven decision-making at the PowerBI Analytics Hub. This repository serves as a centralized destination, housing a diverse collection of meticulously crafted PowerBI dashboards. Tailored for strategic decision-makers, our visualizations offer unique perspectives and insights across various datasets. Elevate your analytics journey with our comprehensive suite, delivering actionable insights and driving excellence throughout your organization.
 
